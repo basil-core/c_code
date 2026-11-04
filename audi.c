@@ -4,6 +4,7 @@
    3. Check a date and slot: show Free or Booked
    Slots: 1 = 9-11 AM, 2 = 11 AM-1 PM, 3 = 2-4 PM, 4 = 4-6 PM
 */
+//c program
 #include <stdio.h>
 #include <string.h>
 
